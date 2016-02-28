@@ -1,0 +1,8 @@
+Clean it up
+At least think about the UX design
+
+Extra features:
+Move things to the right
+Actual CSS, think about mobile a little
+A timer
+Something that tells you how many of each word there are
